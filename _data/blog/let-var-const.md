@@ -1,9 +1,9 @@
 ---
 template: BlogPost
 path: /let-var-const
-date: 2020-04-13
+date: 2020-04-14
 title: let, var or const ?
-thumbnail: 'https://i1.wp.com/programmingwithmosh.com/wp-content/uploads/2019/03/javascript-736400_960_720.png?fit=720%2C720&ssl=1'
+thumbnail: '/assets/js.png'
 metaDescription: Meta description for Hello World
 ---
 
@@ -134,15 +134,4 @@ Beacuse var is hoisted above and setTimeout() executes after the loop ends as se
 * const :
     * block scoped variables
     * No hoisting i.e, Reference error while accessing a variable before it's declared
-<!-- Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
-
-![Chinese Salty Egg](./salty_egg.jpg) -->
