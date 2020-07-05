@@ -17,68 +17,65 @@ But, console object has some other really intereting method to create logs like 
 
 It is used to output messages in console
 
-![image info](./pictures/image.png)
+![image info](/assets/debugging/log.png)
 
 ## warn()
 
 It is used to output warning messages in console.
 
-![image info](./pictures/image.png)
+![image info](/assets/debugging/warn.png)
 
 ## info()
 
 It is used to output informative messages in console
 
-![image info](./pictures/image.png)
+![image info](/assets/debugging/info.png)
 
 ## error()
 
 It is used to output error messages in console.
 
-![image info](./pictures/image.png)
+![image info](/assets/debugging/error.png)
 
 ## table()
 
 It is used to console output in a nice tabular format.
 
-![image info](./pictures/image.png)
+![image info](/assets/debugging/table.png)
 
 ## dir()
 
 It is used to display object in a nice interactive manner. It let's us see the contents of child objects.
 
-![image info](./pictures/image.png)
+![image info](/assets/debugging/dir.png)
 
 ## tracing()
 
 It is used to print the stack trace which helps to know and understand the code execution flow.
 
-![image info](./pictures/image.png)
+![image info](/assets/debugging/trace.png)
 
-## asserting()
-
-It is used to run assertion tests. if the first argument is false, then only it prints the subsequent arguments to console.
-
-![image info](./pictures/image.png)
 
 ## clear()
 
 It is used to clear the console.
 
-![image info](./pictures/image.png)
+![image info](/assets/debugging/clear.png)
 
 ## time()
 
 It is used to track the time take to execute the operation.
 
-![image info](./pictures/image.png)
+![image info](/assets/debugging/time.png)
 
 ## count()
 
 It is used to count the number of times the same response is recorded.
 
-![image info](./pictures/image.png)
+![image info](/assets/debugging/count.png)
 
 ### How about styling the console??
 
 Console can be made more interactive by adding colors to it. To add styling add %c into the message. Anthing after %c will get styled by the properties specified in other arguements.
+
+![image info](/assets/debugging/styles.png)
